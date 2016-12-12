@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang= "vi">
+	<head>
+		<title>kunkka</title>
+		<meta charset="utf-8">
+		<style>
+			a:link {
+    		color: green;
+    		background-color: transparent;
+    		text-decoration: none;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 style="text-align: center;color: red">GG-WP</h1>
+		<p style="text-align: center;color: white; background-color: pink ; font-size: 32px">Từ ấy trong tôi bừng nắng hạ</p>
+		<p style="text-align: center;color: white; background-color: violet ; font-size: 32px">Mặt trời chân lý chói qua tim </p>
+		<p style="font-size: 32px">Hồn <strong>tôi</strong> là một vườn hoa lá</p> 
+		<p><strike> Rất đậm hương và rộn tiếng chim...</strike></p> 
+
+		<p><i>Tôi buộc lòng tôi với mọi người</i></p> 
+		<p><u>Để tình trang trải với trăm nơi</u></p>
+		<pre>
+		Để hồn tôi với bao hồn khổ 
+		Gần gũi nhau thêm mạnh khối đời
+		</pre>
+		<dl>
+		<dt>Tôi đã là</dt>
+			<dd>con của vạn nhà</dd> 
+		<dt>Là em của</dt>
+			<dd>vạn kiếp phôi pha</dd>
+		</dl> 
+		Là anh của vạn đầu em nhỏ 
+		Không áo cơm, cù bất cù bơ...
+		<a href="http://www.thivien.net/T%E1%BB%91-H%E1%BB%AFu/T%E1%BB%AB-%E1%BA%A5y/poem-mH2tWe7RQ4SVhKlHTfKyoQ" title="phân tích bài thơ" target="_blank"> Xem full bài</a>
+		<a href="#GG-WP">Quay lại bài</a>
+		<img src="http://2.bp.blogspot.com/-oGz5tcKzKG0/U_vrPHi1ImI/AAAAAAAAET8/AMo_UgzNwSQ/s1600/t%C6%B0%CC%80%2B%C3%A2%CC%81y.jpg" style="width:304px;height:228px;>
+		<ol>
+		<li>Dòng 1</li>
+		<li>dong 2</li>	
+		</ol>
+
+	</body>
+</html>
+
