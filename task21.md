@@ -81,6 +81,6 @@ Nhận ra ngay có xuất hiện bảng và cột user => vậy chắc chắn n�
 
 `UNION SELECT 1,concat(login,':',password),3,4 FROM users;`
 
-<img src="http://i.imgur.com/AVqK3Zg.jpg">
+<img src="http://i.imgur.com/dAw0Tb1.jpg">
 
 Vậy là chúng ta có được tài khoản: admin và mật khẩu được mã hóa dưỡi mã MD5 decode được mật khẩu: P4ssw0rd
